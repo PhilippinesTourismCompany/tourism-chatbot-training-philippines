@@ -1,0 +1,2 @@
+This is selection of text files used to "train" intents and entities in DIALOGFLOW.
+Sample sentences are messages in Filipino, Cebuano and English sent initally by the Users (Facebook Page + Facebook Messenger). 
