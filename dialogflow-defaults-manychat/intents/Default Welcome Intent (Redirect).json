@@ -1,0 +1,35 @@
+{
+  "id": "a44188d7-3090-452c-8d55-d5c632fdfd72",
+  "name": "Default Welcome Intent (Redirect)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "flow": "welcome"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540456640,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "Small talk topics to help make your bot more personable",
+  "examples": "User: Hello!\nUser: How are you?\nUser: Thank you!\nUser: You\u0027re welcome.\nUser: What\u0027s up?\nUser: I\u0027m bored.\nUser: I\u0027m joking.\nUser: Well done!\nUser: Who are you?\nUser: How old are you?\nUser: You\u0027re clever.\nUser: What do you do for fun?",
+  "activeAssistantAgents": [
+    "smalltalk-domain-new"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://janis.ai",
+    "headers": {
+      "": ""
+    },
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.56,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

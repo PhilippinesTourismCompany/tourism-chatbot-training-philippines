@@ -1,0 +1,36 @@
+{
+  "id": "a8551946-5639-4031-abb4-4acc96830266",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Got it. I just sent an alert :bell: to my team so they can train me to learn from our conversation.",
+            "OK got it. I forwarded that message to my team.",
+            "I\u0027ve forwarded that message on. Thanks."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": false,
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540292911,
+  "fallbackIntent": true,
+  "events": []
+}

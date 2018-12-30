@@ -1,0 +1,1316 @@
+[
+  {
+    "id": "5170ca1a-a717-4c79-b054-c55463146438",
+    "data": [
+      {
+        "text": "👋",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540456640
+  },
+  {
+    "id": "ec40837d-ee1f-454a-9fbf-2d32e00b178e",
+    "data": [
+      {
+        "text": "re-start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "78ebb517-ff16-44e1-85b3-d75f92636dbf",
+    "data": [
+      {
+        "text": "main menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "13ef0029-0034-4cf6-b467-9004537ae20b",
+    "data": [
+      {
+        "text": "start over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "99d671d9-16fe-4cc5-9aee-cdf826b56708",
+    "data": [
+      {
+        "text": "restart bot",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537647883
+  },
+  {
+    "id": "af306318-74b8-4037-a02e-97e0805a31f2",
+    "data": [
+      {
+        "text": "how do I start over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "92354e26-8ac2-4566-8b87-9d12899706e7",
+    "data": [
+      {
+        "text": "can we start over?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "fce6513b-3a27-4403-a024-c538c03173b9",
+    "data": [
+      {
+        "text": "I want to start over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "8ce41edd-c2b3-43ab-87e5-7cf88b0cfab2",
+    "data": [
+      {
+        "text": "let\u0027s start over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "873af42a-87f1-4980-bfc0-addebb11391c",
+    "data": [
+      {
+        "text": "start again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "28ed4dc8-9a5e-4f3a-9a65-0958a96a3f30",
+    "data": [
+      {
+        "text": "back to start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "60e7e433-93db-473e-92b7-c806c83beec0",
+    "data": [
+      {
+        "text": "reset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537647883
+  },
+  {
+    "id": "0c66779b-caec-4a11-8230-c9cd149a5fbc",
+    "data": [
+      {
+        "text": "Greetings and salutations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537588795
+  },
+  {
+    "id": "c1b30cab-6b6f-49a3-a6db-2670b0bf4130",
+    "data": [
+      {
+        "text": "What\u0027s new?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "6bbcab58-c1e2-4186-a216-17f610e28724",
+    "data": [
+      {
+        "text": "What\u0027s the word?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "0c2f9010-91f6-4a85-b8d6-96f66eb9ad7f",
+    "data": [
+      {
+        "text": "Long time no see",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "52960969-5d62-4a98-93a6-f10e578d5cf2",
+    "data": [
+      {
+        "text": "How are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "c5f957f2-70fc-4011-9543-68529ae51762",
+    "data": [
+      {
+        "text": "Hey boo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "892f4d32-1da4-49ca-868f-297445876ffb",
+    "data": [
+      {
+        "text": "What\u0027s happening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "3d794584-81b3-449e-a8e7-ce23c40dfeaf",
+    "data": [
+      {
+        "text": "Nice to see ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "9239e09b-fa5a-4457-9706-7a875008a965",
+    "data": [
+      {
+        "text": "great to see ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "a97b063f-6afc-428f-82e8-919d7ec64048",
+    "data": [
+      {
+        "text": "Good to see ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "b14f825b-c920-4746-94ee-5c366294bb60",
+    "data": [
+      {
+        "text": "how are things?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "22ad0823-fde1-4cce-be1d-38a672c16364",
+    "data": [
+      {
+        "text": "How\u0027s everything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "6bed89c7-c5cc-4afd-9980-8058789dc4de",
+    "data": [
+      {
+        "text": "what\u0027s going on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "a57361d1-5a37-449d-a565-74ec87a25618",
+    "data": [
+      {
+        "text": "hey what\u0027s up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "7daee739-208c-4006-a1a4-793399c8f1bf",
+    "data": [
+      {
+        "text": "Konnichiwa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "9e60bff2-1b89-4f17-a378-39aafd3901b7",
+    "data": [
+      {
+        "text": "Ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "8392e241-1fb9-46d0-9c71-5c6f1d06e5af",
+    "data": [
+      {
+        "text": "Hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "4007b88f-56ff-4fa1-8617-9ad4195c1fde",
+    "data": [
+      {
+        "text": "Que pasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "b7e7abfe-6c4f-4aff-b8a8-6493859c8bbf",
+    "data": [
+      {
+        "text": "Hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "800bd04c-fcd7-49ee-930a-66b6dbd82c8b",
+    "data": [
+      {
+        "text": "Aloha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "5564a37e-36d2-45a5-b005-07f45cdb5a57",
+    "data": [
+      {
+        "text": "hey ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1540292057
+  },
+  {
+    "id": "539244e9-857b-4a57-bc6c-b8453d3c7879",
+    "data": [
+      {
+        "text": "Why hello there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "8402c586-0aca-4e1d-9a69-140eb503dfeb",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " doin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "624cf83c-38d5-48b9-a518-5dc1a41c94d1",
+    "data": [
+      {
+        "text": "ello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "e4e16df0-90ad-41c5-989f-080e0af06632",
+    "data": [
+      {
+        "text": "Whaddup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "77265a74-5abe-4dbc-b848-334d10279d81",
+    "data": [
+      {
+        "text": "You",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " know who this is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "5f687e60-f905-43aa-8e13-dd6707ec1fbb",
+    "data": [
+      {
+        "text": "Hello, my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Inigo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Montoya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "35619556-8213-4500-8d42-09384f16652c",
+    "data": [
+      {
+        "text": "sup homeslice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "4bd8ec5b-d38a-40fb-b56d-33671e4142ad",
+    "data": [
+      {
+        "text": "Hiya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "ca3833a9-1146-4bba-87a8-6061b604e5ef",
+    "data": [
+      {
+        "text": "matey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "a4bad178-2469-4246-80b4-4c18433eb983",
+    "data": [
+      {
+        "text": "Ahoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "62e39e80-d5bb-4045-9954-e9ae3ec0d8c5",
+    "data": [
+      {
+        "text": "I come in peace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "f212dde0-51bc-4b7f-ae71-91b0feee69da",
+    "data": [
+      {
+        "text": "Hi mister",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "e8e0fe54-1d50-410a-97ca-fcbd17d8fc82",
+    "data": [
+      {
+        "text": "Boo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "980df7ed-c9b0-4fa4-b329-c026540afc23",
+    "data": [
+      {
+        "text": "What\u0027s kickin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "4e2c2230-1082-4ebc-b582-23411712fcef",
+    "data": [
+      {
+        "text": "Howdy partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "ad051102-2765-4742-974f-5c2c4c57f439",
+    "data": [
+      {
+        "text": "Hello sunshine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "cc035814-5cb4-47b1-bdb7-233cf971843c",
+    "data": [
+      {
+        "text": "Howdy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537588795
+  },
+  {
+    "id": "08427982-859a-4d01-b03b-8ecd9c70947a",
+    "data": [
+      {
+        "text": "Whazzup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "b7935222-460d-445d-a278-c496f3cc7e2c",
+    "data": [
+      {
+        "text": "then what\u0027s up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "d8a8d908-b7c8-415f-85e1-a50edded430c",
+    "data": [
+      {
+        "text": "what\u0027s cracking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "847f71c9-353a-4249-8bb3-204a50a4bdfd",
+    "data": [
+      {
+        "text": "I said what\u0027s up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "ed7da7fc-c831-46b7-a9eb-5fc6470cbb67",
+    "data": [
+      {
+        "text": "what\u0027s the deal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537584821
+  },
+  {
+    "id": "1942cb65-81d2-4cc9-8cf3-921b86ee1857",
+    "data": [
+      {
+        "text": "good what\u0027s up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "e010fef7-c7a8-4841-b2e5-daa64f305531",
+    "data": [
+      {
+        "text": "what\u0027s cooking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "a974db43-01b0-4e5f-aae4-40f726f5dd39",
+    "data": [
+      {
+        "text": "what\u0027s up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "f19a103c-a2e8-4871-b11f-5a6e2dba0ccf",
+    "data": [
+      {
+        "text": "sup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "2769b743-ca6f-4cb9-a36a-f0a553b73065",
+    "data": [
+      {
+        "text": "what\u0027s up ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "f3293511-176a-49b6-89a3-318567124a87",
+    "data": [
+      {
+        "text": "wassup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "cda6c0e2-f92c-43f5-93dc-95bdc544b3bf",
+    "data": [
+      {
+        "text": "what\u0027s shaking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1537584821
+  },
+  {
+    "id": "d5172baa-4ded-4d56-8b1e-a5c582f121e0",
+    "data": [
+      {
+        "text": "what is up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "06682881-b51e-4769-b7f3-a62488713d9d",
+    "data": [
+      {
+        "text": "Hi ",
+        "userDefined": false
+      },
+      {
+        "text": "bot",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "2595af40-b1d1-4247-9452-9455a5f85b91",
+    "data": [
+      {
+        "text": "what is happening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "61a9e5fa-4dd8-4322-a909-b112506df93c",
+    "data": [
+      {
+        "text": "what is going on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "18506457-8671-4c96-83cd-936b6d1cd16b",
+    "data": [
+      {
+        "text": "bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "b5845b67-8556-45e0-88e7-35b609743749",
+    "data": [
+      {
+        "text": "good afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537587221
+  },
+  {
+    "id": "09b951c5-ab26-4ac0-b374-c6787729e5fa",
+    "data": [
+      {
+        "text": "good day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537587221
+  },
+  {
+    "id": "9f6345a7-9c56-48b9-bfee-43bc12dede34",
+    "data": [
+      {
+        "text": "ola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537584821
+  },
+  {
+    "id": "a689cf25-0ae5-4d3d-a29b-078be1d66b2c",
+    "data": [
+      {
+        "text": "let\u0027s talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537432250
+  },
+  {
+    "id": "82986a2b-46d5-42f9-ae6e-3375e9572a0a",
+    "data": [
+      {
+        "text": "can we ",
+        "userDefined": false
+      },
+      {
+        "text": "chat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537432250
+  },
+  {
+    "id": "eed234ba-23ad-4627-8e54-2fe7d1aa781b",
+    "data": [
+      {
+        "text": "pleasure to meet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537429316
+  },
+  {
+    "id": "6902ed3e-b8f4-4773-85bd-ded6d89df21b",
+    "data": [
+      {
+        "text": "glad to meet ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "ccb06f02-b4e8-4ff4-b15d-13e8bb05daf4",
+    "data": [
+      {
+        "text": "pleasure to meet ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "641051b6-f727-42a9-b11e-1a4ddabe654b",
+    "data": [
+      {
+        "text": "it\u0027s nice to meet ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "f8326fa2-7b51-402d-ac84-334390c4ee05",
+    "data": [
+      {
+        "text": "please to meet ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "0a2ebf93-e148-4b1b-ab30-1b82e1975182",
+    "data": [
+      {
+        "text": "nice meeting ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "4f9771df-c4ae-42b1-b636-860dc8d36647",
+    "data": [
+      {
+        "text": "nice to meet ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "ccc3ab1e-661c-4869-91ee-90fd9dbb6b1c",
+    "data": [
+      {
+        "text": "good to know ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1540292057
+  },
+  {
+    "id": "5079bca9-456e-4594-b401-3fa85c18b0aa",
+    "data": [
+      {
+        "text": "hello there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "26f2e5bb-9bd0-4962-ad41-a19cc551b9a7",
+    "data": [
+      {
+        "text": "good morning there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "eb460e65-6712-4f7c-be07-2e56ff37cf14",
+    "data": [
+      {
+        "text": "and a good morning to ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "dd4da30a-6229-4a71-ba75-394c4a4238be",
+    "data": [
+      {
+        "text": "good morning to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "852195a5-699c-49a8-ab5b-c1d62e98bea9",
+    "data": [
+      {
+        "text": "hello good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "79eb6bb4-4d55-42ca-930c-371ea23431df",
+    "data": [
+      {
+        "text": "hi good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "86b6258b-7104-450e-9111-87aff4a34059",
+    "data": [
+      {
+        "text": "good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537336439
+  },
+  {
+    "id": "75eeb37d-1b1f-41c5-8f54-d54ae903e54e",
+    "data": [
+      {
+        "text": "good morning ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "59778cd7-130f-440f-8d49-07c6efca6eac",
+    "data": [
+      {
+        "text": "good evening ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540292057
+  },
+  {
+    "id": "1346d4a4-e4a3-4c25-bfac-35187d96ca4b",
+    "data": [
+      {
+        "text": "good evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "1baa82a6-d192-4e6b-93f6-264952617453",
+    "data": [
+      {
+        "text": "hey good evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "0d8d09ea-d805-41d2-a88f-6d624f10a5ee",
+    "data": [
+      {
+        "text": "whats up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "1045952d-b109-4beb-ab06-f1d63a4ac084",
+    "data": [
+      {
+        "text": "hey there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "1a3f98f9-6a8a-4516-9d8f-2915f99de8f7",
+    "data": [
+      {
+        "text": "yo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537336439
+  },
+  {
+    "id": "03b7ccfc-61d8-4352-885d-b6e2277cd1ef",
+    "data": [
+      {
+        "text": "greetings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "4eadc701-396a-448a-8352-e48cf784fdcd",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "94859c8f-e24c-4ab2-bb14-5c9c4f25a777",
+    "data": [
+      {
+        "text": "começar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "00cab8c7-0c70-40fa-958c-6d7845535d9a",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "05fb55b5-8950-4de0-935a-5935d013131d",
+    "data": [
+      {
+        "text": "you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537336439
+  },
+  {
+    "id": "a8bd3258-0ddc-495e-acf7-a7a70c245c7e",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537071050
+  }
+]
