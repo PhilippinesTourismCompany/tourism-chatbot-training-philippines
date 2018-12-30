@@ -1,0 +1,113 @@
+[
+  {
+    "value": "pilates",
+    "synonyms": [
+      "pilates"
+    ]
+  },
+  {
+    "value": "stadium",
+    "synonyms": [
+      "stadium",
+      "stadiums"
+    ]
+  },
+  {
+    "value": "dance studio",
+    "synonyms": [
+      "dance studio",
+      "dancing",
+      "dance",
+      "dance clubs",
+      "dance club"
+    ]
+  },
+  {
+    "value": "bowling",
+    "synonyms": [
+      "bowling"
+    ]
+  },
+  {
+    "value": "hip hop club",
+    "synonyms": [
+      "Hip Hop Club",
+      "Hip Hop Clubs"
+    ]
+  },
+  {
+    "value": "yoga",
+    "synonyms": [
+      "yoga",
+      "yoga center",
+      "yoga club",
+      "yoga club",
+      "do yoga"
+    ]
+  },
+  {
+    "value": "swimming pool",
+    "synonyms": [
+      "swimming pool",
+      "swim"
+    ]
+  },
+  {
+    "value": "fitness",
+    "synonyms": [
+      "fitness",
+      "fitness center",
+      "fitness club",
+      "fitness clubs",
+      "make sports"
+    ]
+  },
+  {
+    "value": "boxing",
+    "synonyms": [
+      "boxing",
+      "boxing center",
+      "boxing club",
+      "boxing club"
+    ]
+  },
+  {
+    "value": "billiards",
+    "synonyms": [
+      "billiards",
+      "pool",
+      "shoot pool"
+    ]
+  },
+  {
+    "value": "football stadium",
+    "synonyms": [
+      "football stadium",
+      "football stadiums"
+    ]
+  },
+  {
+    "value": "gyms",
+    "synonyms": [
+      "gyms",
+      "gymnastics",
+      "gym center",
+      "gym club",
+      "gym club",
+      "gym"
+    ]
+  },
+  {
+    "value": "salsa club",
+    "synonyms": [
+      "salsa club",
+      "salsa clubs"
+    ]
+  },
+  {
+    "value": "paintball",
+    "synonyms": [
+      "paintball"
+    ]
+  }
+]

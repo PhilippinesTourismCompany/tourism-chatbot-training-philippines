@@ -1,0 +1,90 @@
+{
+  "id": "cb2daeeb-40f8-4d84-9c97-c7a7d551e4dd",
+  "name": "location.request.location (v1.0)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e8f70e97-1952-47e8-8741-35597208382c",
+          "required": false,
+          "dataType": "@venue-types",
+          "name": "location-types",
+          "value": "$location-types",
+          "isList": false
+        },
+        {
+          "id": "f5d165c6-9ad5-4b21-b307-232bf6428314",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location-place",
+          "value": "$location-place",
+          "isList": false
+        },
+        {
+          "id": "5badd933-1b2d-4ed9-84ec-97b815040eeb",
+          "required": false,
+          "dataType": "@sys.unit-length",
+          "name": "location-length",
+          "value": "$location-length",
+          "isList": false
+        },
+        {
+          "id": "1a7f392a-b0f7-4911-8b24-86ffcaecec07",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "location-time",
+          "value": "$location-time",
+          "isList": false
+        },
+        {
+          "id": "0606ea51-1e28-462e-8bd4-a382c595a983",
+          "required": false,
+          "dataType": "@map-sort",
+          "name": "location-sort",
+          "value": "$location-sort",
+          "isList": false
+        },
+        {
+          "id": "a5915128-94b9-48b5-8106-9fb2af51f8e4",
+          "required": false,
+          "dataType": "@navigation-route-type",
+          "name": "location-navigation",
+          "value": "$location-navigation",
+          "isList": false
+        },
+        {
+          "id": "565a5882-6b8d-4971-8cda-88284838d17b",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "location-name",
+          "value": "$location-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "flow": "content20181224031328_085570"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545945868,
+  "fallbackIntent": false,
+  "events": []
+}

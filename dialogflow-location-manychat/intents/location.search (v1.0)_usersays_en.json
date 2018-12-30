@@ -1,0 +1,2238 @@
+[
+  {
+    "id": "7070bc14-19ab-4adf-86fc-54948c894bd2",
+    "data": [
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Starbucks",
+        "alias": "location-search",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545864096
+  },
+  {
+    "id": "8f390d94-9531-47d1-a07f-0598196967ba",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Starbucks",
+        "alias": "location-search",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545864096
+  },
+  {
+    "id": "10900b4a-06d0-46eb-9a8b-6cc336e11fd9",
+    "data": [
+      {
+        "text": "find me the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Starbucks",
+        "alias": "location-search",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545864096
+  },
+  {
+    "id": "7111c536-31b2-40fd-95a7-82a598a51ded",
+    "data": [
+      {
+        "text": "Where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Starbucks",
+        "alias": "location-search",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545855436
+  },
+  {
+    "id": "d9acfd55-7687-404e-b6e7-2d1cf8be979f",
+    "data": [
+      {
+        "text": "show me a ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "Philippines",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "eef04e19-e057-4c19-bf43-817948b6e53b",
+    "data": [
+      {
+        "text": "show me the map of ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "6b15583e-8870-47a7-a15f-5ae23d0c0600",
+    "data": [
+      {
+        "text": "show me where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Egypt",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "5ab83b0f-6174-42a7-a12b-1f01ca911a77",
+    "data": [
+      {
+        "text": "show me a ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "England",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "70053589-29f2-4813-9c00-7782776261a5",
+    "data": [
+      {
+        "text": "pull up the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "926bfbcf-d8d0-4fc6-a087-25c3afe5e821",
+    "data": [
+      {
+        "text": "India",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "f014e517-3ca4-4951-8b27-fc74ab2ad101",
+    "data": [
+      {
+        "text": "Germany",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922948
+  },
+  {
+    "id": "7c9e97ad-6d4e-44d9-9948-e945d684f118",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "471e2759-9979-40cd-b2b1-75604e7d3372",
+    "data": [
+      {
+        "text": "Abu Dhabi",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "07e7d2ca-e270-47f9-a62d-ae74041a925a",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Fukuoka",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "d8c29529-c7a9-498b-bf1c-35ed2d60cba3",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "New York City",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "dfe4d552-822e-4e49-aa01-c7cadf673bbc",
+    "data": [
+      {
+        "text": "I want to see the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "7d478f4b-81b6-40c1-b635-541fe118a2a8",
+    "data": [
+      {
+        "text": "show me maps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543043433
+  },
+  {
+    "id": "d45e9038-1f23-4e07-b579-09e77d3e1aa1",
+    "data": [
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "fd6be699-ca67-42e8-ac5d-582a379f0355",
+    "data": [
+      {
+        "text": "show me the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543043433
+  },
+  {
+    "id": "26aa496d-af5e-405a-8582-9fc1190a9250",
+    "data": [
+      {
+        "text": "can you locate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543043433
+  },
+  {
+    "id": "a1b0cf8b-92d2-464d-bddb-cf0de4e4e046",
+    "data": [
+      {
+        "text": "tell me where ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "1ba7f5f8-eabf-41b9-ba28-f932e411c97d",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "3421 Saint Henry",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "803a0ced-abcb-467c-a11d-1730685bb163",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Chattahoochee River",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "105f7a4b-c136-494f-9e79-ed6c8c1051d1",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ohio",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "afa2ad60-f0ab-4717-8852-8530299318ff",
+    "data": [
+      {
+        "text": "show me the world",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543043433
+  },
+  {
+    "id": "c8e8d817-d7f7-43ad-b9bf-f6efa171fd95",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Iceland",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "4734cae1-7e59-48a2-8f74-86c9649ba700",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Canary Wharf London",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "86abcaa4-99a4-465b-9570-d5fd44cf7c28",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543043433
+  },
+  {
+    "id": "bde27dba-40ef-4d60-a367-e53e7dc8324e",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Oakland",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922948
+  },
+  {
+    "id": "35c4926a-b464-42a1-abd1-c3b3c9ba12e1",
+    "data": [
+      {
+        "text": "can you show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Spain",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 1543922948
+  },
+  {
+    "id": "b25e203d-a3f8-4048-92fe-f77980d86756",
+    "data": [
+      {
+        "text": "take me to maps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543043433
+  },
+  {
+    "id": "8cebef84-61cc-42b2-8c57-cfa7ee85c17f",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "554 San Antonio road Mountain View",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "181e209f-0f4c-4bd9-8598-3494e257fb90",
+    "data": [
+      {
+        "text": "Baltimore",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "4b5fc259-5f71-4c95-8654-1b41f4a08f9c",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "3484aef6-11e8-4044-90e3-a9ae08e33736",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "d75140d5-757e-454b-a9b8-50ae9b086b3a",
+    "data": [
+      {
+        "text": "Titicaca",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "maps",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "c9921ac8-4c2d-4dee-8f50-29a3e83af94d",
+    "data": [
+      {
+        "text": "Australia",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922948
+  },
+  {
+    "id": "64364c7c-cddb-4c2b-bfc7-5f9f73fc7282",
+    "data": [
+      {
+        "text": "where is",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Asia",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "6471c2cf-f593-486a-aeb3-aa3c87725a2c",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Oguta Lake",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "cc11eb18-03fd-4696-aa32-539f59a03ce5",
+    "data": [
+      {
+        "text": "where is",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bangladesh",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "52526fa9-f7a9-43c2-a84e-48ad68eb57ae",
+    "data": [
+      {
+        "text": "maps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "4dc18003-00f7-4d00-a3e9-3f8184f4fb71",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "44d641e4-f01b-488f-bf20-034a38c9ac1b",
+    "data": [
+      {
+        "text": "map of ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris France",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "d7c452a7-dabd-4156-b350-7b3bafb31f5a",
+    "data": [
+      {
+        "text": "locate ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "0b11084d-e4bb-4a3e-bd9f-cdb997095107",
+    "data": [
+      {
+        "text": "show me the map of ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "51d72a20-b51d-4083-ae3a-23f19ea58418",
+    "data": [
+      {
+        "text": "show me a ",
+        "userDefined": false
+      },
+      {
+        "text": "world",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "48b08631-56b6-4eff-898a-d2a64d9a05b4",
+    "data": [
+      {
+        "text": "where is located ",
+        "userDefined": false
+      },
+      {
+        "text": "York",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "8b4f9ad4-2699-4882-8e9d-4917db8f745e",
+    "data": [
+      {
+        "text": "can you give me a map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "d8540cc7-1b28-486f-89be-a3628511cc7a",
+    "data": [
+      {
+        "text": "go to the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "1bde58ed-8f03-4d40-a9fb-d44e78ee95cb",
+    "data": [
+      {
+        "text": "search",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Central Park",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "45c883a5-4c72-4e36-845d-b2f83777e24a",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Apple Valley California",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "4ccf9293-8d87-4eb4-a5d8-7242e61ee08b",
+    "data": [
+      {
+        "text": "open the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "715661ea-4e2c-4ff8-a4a7-9535bbe99760",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Santa Clara",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "336cce09-5468-439e-8d58-d7bf09cacbaf",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "77e17fd5-674e-42ec-99b2-db9ccd46ed2f",
+    "data": [
+      {
+        "text": "can you show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "my area",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "f7aa0d6f-e5c2-4cd0-aa27-5c89416f1818",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "8c140a6d-fef2-47b6-989b-6c6134325444",
+    "data": [
+      {
+        "text": "show map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543043433
+  },
+  {
+    "id": "cb0f926d-b2d6-49e3-a951-6cd50124f9b0",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "d24ca524-c7ef-495c-b520-c6d27db83cfd",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Greece",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "669e6378-fc78-46ec-a724-334878489876",
+    "data": [
+      {
+        "text": "China",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "654b06b2-8388-4108-8b67-5eb066246b33",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "New Orleans",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "b5a37755-f325-4423-9a05-bd17dbf9f621",
+    "data": [
+      {
+        "text": "world map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543043433
+  },
+  {
+    "id": "f7e05490-c1ba-4616-8fc6-5df9699c41de",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Mount Gurage",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "94ea2f03-b02e-450b-afd5-cee6d1feadc2",
+    "data": [
+      {
+        "text": "California where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Lawndale California",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "132bf39e-76cc-4cfe-8311-bdf419b44b6b",
+    "data": [
+      {
+        "text": "tell me where ",
+        "userDefined": false
+      },
+      {
+        "text": "Alpine street",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "62257c4b-0ee1-4fa6-86ff-d1220a0e6bf7",
+    "data": [
+      {
+        "text": "locate ",
+        "userDefined": false
+      },
+      {
+        "text": "Colorado River",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "ce4e18e7-3945-4997-b7a1-5a33b8dccc89",
+    "data": [
+      {
+        "text": "can you pull up a map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "3461f93c-d470-4489-868e-e2e6baf18d2d",
+    "data": [
+      {
+        "text": "can you show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "Philippines",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "a5252802-6c7f-45a1-a6bb-6237baa9708e",
+    "data": [
+      {
+        "text": "can I see the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "8947f394-03aa-4aa2-8b0d-d10059f01e28",
+    "data": [
+      {
+        "text": "I need a map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "7d60270b-60be-4969-8a13-6d8b0c426ee6",
+    "data": [
+      {
+        "text": "locate ",
+        "userDefined": false
+      },
+      {
+        "text": "Golden Gate Park",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "ca3e5085-0202-4221-87a2-2a79274c77e5",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "6eb022fe-c095-41d6-967a-dbe9c77a34b2",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Hennagara",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "4ccece9f-66a3-44d9-9165-6bf527b5b5e6",
+    "data": [
+      {
+        "text": "bring up the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "b96cd72a-772a-4682-bb85-3ef373ddb25b",
+    "data": [
+      {
+        "text": "Brighton",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "3ffaaebb-5e74-45d5-9e6c-d5dc6dd7ba6a",
+    "data": [
+      {
+        "text": "search",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Wonderland",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "28f57dc9-d032-47a7-9307-1bf5ea4723d2",
+    "data": [
+      {
+        "text": "show me my map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "e5b1dbd0-a876-4fba-8bc6-c6b2c9f9a8d8",
+    "data": [
+      {
+        "text": "open map view",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "b24faf72-1bcd-4ea9-b5a5-0e0e052f2564",
+    "data": [
+      {
+        "text": "give me the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "14bfbfdd-3dbf-43c9-b721-d12317259dc9",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Oklahoma City",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "820d4ae5-3933-4b25-996a-0870d5716782",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Serbia",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "2c7e1b6e-f114-42bb-9e70-4298068e3a75",
+    "data": [
+      {
+        "text": "Belgrade",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "6645aec6-991a-40c9-87ca-156b48cb136d",
+    "data": [
+      {
+        "text": "show me a ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lithuania",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "36f66361-1a53-420f-a6f5-475e85244b2c",
+    "data": [
+      {
+        "text": "show me a map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "5b58352b-9beb-433a-baa7-3b82c4af0d3b",
+    "data": [
+      {
+        "text": "can you open the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "bb26c695-f26c-4772-b8c3-36ead408cb65",
+    "data": [
+      {
+        "text": "show me a map of the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "4ad23217-c3f2-42fa-86b1-58d006fcb35c",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on a map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "9397ca16-dd4e-4ce5-a4a5-78eb7be4ed00",
+    "data": [
+      {
+        "text": "Frankfurt",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "245991dc-091a-4058-ac32-6964a2c0bd80",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "e4bef81e-ae58-47f3-b769-50cd1fc5a13c",
+    "data": [
+      {
+        "text": "Arkansas",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "cbae2338-7484-4f32-9338-74d03c518b10",
+    "data": [
+      {
+        "text": "do you know where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Islamabad",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "fac33d1f-dc3d-4c6d-98d0-e379c094adfc",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Philadelphia",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "78ff2458-1ca9-4303-941c-d9696a23ceda",
+    "data": [
+      {
+        "text": "Lawndale California",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " where is it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "035bd3cc-a0e7-4430-9d92-ebc7ae27fc55",
+    "data": [
+      {
+        "text": "find the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pacific Ocean",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on maps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "edfaa738-274b-4c22-85db-faacd79bb90d",
+    "data": [
+      {
+        "text": "I want the ",
+        "userDefined": false
+      },
+      {
+        "text": "map",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "b87ea712-d094-44de-bb1f-3e8b3a7ced8d",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Saudi Arabia",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "361e7868-d0cc-421b-a366-545da6213846",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Istanbul",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on the map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543923232
+  },
+  {
+    "id": "c1fbe308-1710-4d6a-bfe4-6ee67e48b852",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "Lake Tanganyika",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "7eebb97a-4c43-4e91-901b-4ced281d41d1",
+    "data": [
+      {
+        "text": "tell me where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Sri Lanka",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "38827adf-1191-4466-9997-a8f4ce3c1e85",
+    "data": [
+      {
+        "text": "show me a map of the world",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543923232
+  },
+  {
+    "id": "ec3568d8-9152-4034-a08d-8d5cb4bda529",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Jakarta",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "9c80c612-c5e3-4340-9a61-a318b190a752",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Lake Fianga",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "6b100334-40ce-49eb-a632-51c5a4103244",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Łódź",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "bc1b1a9d-95c3-4210-acfc-70b8553fe914",
+    "data": [
+      {
+        "text": "Bangkok",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922948
+  },
+  {
+    "id": "7af9f68e-d833-478d-ae37-5b09e8639baf",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "4a5555b2-5037-4563-b891-d1c26e98ba01",
+    "data": [
+      {
+        "text": "map view",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "a203a7aa-7f25-4221-b8da-5065a05cbcb3",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "043658ce-3e34-4bf2-bb1d-16a21db74db1",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "The Salish Sea",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  },
+  {
+    "id": "b6e3073d-0f99-4387-91d3-c929895adf2d",
+    "data": [
+      {
+        "text": "find me a map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543923232
+  }
+]

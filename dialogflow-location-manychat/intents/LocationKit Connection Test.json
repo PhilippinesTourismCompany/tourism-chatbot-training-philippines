@@ -1,0 +1,34 @@
+{
+  "id": "ea523d5a-d029-4763-ab64-8f43ecbb00d8",
+  "name": "LocationKit Connection Test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "flow": "content20181227190422_009931"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545982551,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TestLocationKit"
+    }
+  ]
+}

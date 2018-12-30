@@ -1,0 +1,75 @@
+[
+  {
+    "value": "laptop",
+    "synonyms": [
+      "laptop"
+    ]
+  },
+  {
+    "value": "book",
+    "synonyms": [
+      "book"
+    ]
+  },
+  {
+    "value": "T-shirt",
+    "synonyms": [
+      "T-shirt"
+    ]
+  },
+  {
+    "value": "glasses",
+    "synonyms": [
+      "glasses",
+      "sunglasses"
+    ]
+  },
+  {
+    "value": "hat",
+    "synonyms": [
+      "hat"
+    ]
+  },
+  {
+    "value": "shoes",
+    "synonyms": [
+      "shoes",
+      "sneakers"
+    ]
+  },
+  {
+    "value": "order",
+    "synonyms": [
+      "order"
+    ]
+  },
+  {
+    "value": "item",
+    "synonyms": [
+      "item",
+      "the item",
+      "it"
+    ]
+  },
+  {
+    "value": "product",
+    "synonyms": [
+      "product"
+    ]
+  },
+  {
+    "value": "package",
+    "synonyms": [
+      "package",
+      "shipment"
+    ]
+  },
+  {
+    "value": "gift card",
+    "synonyms": [
+      "gift card",
+      "gift cards",
+      "gift certificate"
+    ]
+  }
+]

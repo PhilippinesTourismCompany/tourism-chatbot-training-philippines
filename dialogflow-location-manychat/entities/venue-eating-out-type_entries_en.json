@@ -1,0 +1,118 @@
+[
+  {
+    "value": "steakhouse",
+    "synonyms": [
+      "steakhouse",
+      "steak house"
+    ]
+  },
+  {
+    "value": "salad bar",
+    "synonyms": [
+      "salad bar",
+      "salad bars"
+    ]
+  },
+  {
+    "value": "steakhouse",
+    "synonyms": [
+      "steakhouse",
+      "steakhouses"
+    ]
+  },
+  {
+    "value": "pizzeria",
+    "synonyms": [
+      "pizzeria",
+      "pizza place",
+      "pizza places"
+    ]
+  },
+  {
+    "value": "bakery",
+    "synonyms": [
+      "bakery",
+      "bakeries"
+    ]
+  },
+  {
+    "value": "teahouse",
+    "synonyms": [
+      "teahouse",
+      "tea house",
+      "tea"
+    ]
+  },
+  {
+    "value": "coffeeshop",
+    "synonyms": [
+      "coffeeshop",
+      "coffee shop",
+      "coffeeshops",
+      "coffee shops",
+      "coffee"
+    ]
+  },
+  {
+    "value": "sushi place",
+    "synonyms": [
+      "sushi place"
+    ]
+  },
+  {
+    "value": "cafe",
+    "synonyms": [
+      "cafe",
+      "cafes"
+    ]
+  },
+  {
+    "value": "fast food",
+    "synonyms": [
+      "fast food"
+    ]
+  },
+  {
+    "value": "food court",
+    "synonyms": [
+      "food court"
+    ]
+  },
+  {
+    "value": "sushi bar",
+    "synonyms": [
+      "sushi bar",
+      "sushi bars"
+    ]
+  },
+  {
+    "value": "restaurant",
+    "synonyms": [
+      "restaurant",
+      "restaurants"
+    ]
+  },
+  {
+    "value": "buffet",
+    "synonyms": [
+      "buffet",
+      "buffets",
+      "buffet restaurant",
+      "buffet restaurants"
+    ]
+  },
+  {
+    "value": "vegetarian restaurant",
+    "synonyms": [
+      "vegetarian restaurant",
+      "vegetarian restaurants"
+    ]
+  },
+  {
+    "value": "seafood place",
+    "synonyms": [
+      "seafood place",
+      "seafood places"
+    ]
+  }
+]

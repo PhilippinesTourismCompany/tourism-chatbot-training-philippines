@@ -1,0 +1,115 @@
+[
+  {
+    "value": "laundry",
+    "synonyms": [
+      "laundry",
+      "laundry",
+      "laundry service"
+    ]
+  },
+  {
+    "value": "toilet",
+    "synonyms": [
+      "toilet",
+      "toilette",
+      "restroom",
+      "toilets",
+      "restrooms",
+      "change a diaper",
+      "change diaper",
+      "change the diaper"
+    ]
+  },
+  {
+    "value": "mechanic",
+    "synonyms": [
+      "mechanic"
+    ]
+  },
+  {
+    "value": "ATM",
+    "synonyms": [
+      "ATM",
+      "cash dispenser",
+      "cash machine",
+      "ATMs"
+    ]
+  },
+  {
+    "value": "shoe repair",
+    "synonyms": [
+      "shoe repair"
+    ]
+  },
+  {
+    "value": "bank",
+    "synonyms": [
+      "bank",
+      "banks"
+    ]
+  },
+  {
+    "value": "bicycle shop",
+    "synonyms": [
+      "bicycle shop"
+    ]
+  },
+  {
+    "value": "lawyers",
+    "synonyms": [
+      "lawyers",
+      "lawyer",
+      "law office",
+      "law offices",
+      "lawyer office",
+      "lawyer offices"
+    ]
+  },
+  {
+    "value": "post office",
+    "synonyms": [
+      "post office",
+      "postal service"
+    ]
+  },
+  {
+    "value": "home depot",
+    "synonyms": [
+      "home depot"
+    ]
+  },
+  {
+    "value": "currency exchange",
+    "synonyms": [
+      "currency exchange",
+      "exchange currency"
+    ]
+  },
+  {
+    "value": "bathroom",
+    "synonyms": [
+      "bathroom",
+      "bathrooms"
+    ]
+  },
+  {
+    "value": "bicycle rental",
+    "synonyms": [
+      "bicycle rental",
+      "rent a bicycle",
+      "bicycle rent"
+    ]
+  },
+  {
+    "value": "home depots",
+    "synonyms": [
+      "home depots"
+    ]
+  },
+  {
+    "value": "mobile office",
+    "synonyms": [
+      "mobile office"
+    ]
+  }
+]

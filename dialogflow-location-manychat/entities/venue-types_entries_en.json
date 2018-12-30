@@ -1,0 +1,80 @@
+[
+  {
+    "value": "@venue-eating-out-type:",
+    "synonyms": [
+      "@venue-eating-out-type:"
+    ]
+  },
+  {
+    "value": "@venue-sport-type:",
+    "synonyms": [
+      "@venue-sport-type:"
+    ]
+  },
+  {
+    "value": "@venue-local-service-type:",
+    "synonyms": [
+      "@venue-local-service-type:"
+    ]
+  },
+  {
+    "value": "@venue-nightlife-type:",
+    "synonyms": [
+      "@venue-nightlife-type:"
+    ]
+  },
+  {
+    "value": "@venue-automotive-type:",
+    "synonyms": [
+      "@venue-automotive-type:"
+    ]
+  },
+  {
+    "value": "@venue-shopping-type:",
+    "synonyms": [
+      "@venue-shopping-type:"
+    ]
+  },
+  {
+    "value": "@venue-education-type:",
+    "synonyms": [
+      "@venue-education-type:"
+    ]
+  },
+  {
+    "value": "@venue-beauty-type:",
+    "synonyms": [
+      "@venue-beauty-type:"
+    ]
+  },
+  {
+    "value": "@venue-arts-entertainment-type:",
+    "synonyms": [
+      "@venue-arts-entertainment-type:"
+    ]
+  },
+  {
+    "value": "@venue-outdoor-type:",
+    "synonyms": [
+      "@venue-outdoor-type:"
+    ]
+  },
+  {
+    "value": "@venue-accomodation-type:",
+    "synonyms": [
+      "@venue-accomodation-type:"
+    ]
+  },
+  {
+    "value": "@venue-medical-type:",
+    "synonyms": [
+      "@venue-medical-type:"
+    ]
+  },
+  {
+    "value": "@venue-travel-type:",
+    "synonyms": [
+      "@venue-travel-type:"
+    ]
+  }
+]

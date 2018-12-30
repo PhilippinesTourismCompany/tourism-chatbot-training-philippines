@@ -1,0 +1,18 @@
+[
+  {
+    "value": "cost",
+    "synonyms": [
+      "cost",
+      "price",
+      "fee",
+      "charge",
+      "rate"
+    ]
+  },
+  {
+    "value": "pricing",
+    "synonyms": [
+      "pricing"
+    ]
+  }
+]

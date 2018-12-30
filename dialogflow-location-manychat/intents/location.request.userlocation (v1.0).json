@@ -1,0 +1,29 @@
+{
+  "id": "ea6bbfd8-371e-4a0d-8496-337af7dadf39",
+  "name": "location.request.userlocation (v1.0)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Try asking me questions about our business. Ask me where we\u0027re located, or just search for a place like Starbucks on a map."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545983291,
+  "fallbackIntent": false,
+  "events": []
+}

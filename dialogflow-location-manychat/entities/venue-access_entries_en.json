@@ -1,0 +1,83 @@
+[
+  {
+    "value": "transportation",
+    "synonyms": [
+      "transportation",
+      "free transportation"
+    ]
+  },
+  {
+    "value": "shuttle",
+    "synonyms": [
+      "shuttle",
+      "airport shuttle",
+      "free shuttle"
+    ]
+  },
+  {
+    "value": "limousine",
+    "synonyms": [
+      "limousine"
+    ]
+  },
+  {
+    "value": "ride sharing",
+    "synonyms": [
+      "ride sharing",
+      "Uber",
+      "Lyft",
+      "shared ride"
+    ]
+  },
+  {
+    "value": "airport shuttle",
+    "synonyms": [
+      "airport shuttle",
+      "free airport shuttle"
+    ]
+  },
+  {
+    "value": "taxi",
+    "synonyms": [
+      "taxi",
+      "cab"
+    ]
+  },
+  {
+    "value": "bus",
+    "synonyms": [
+      "bus",
+      "transit"
+    ]
+  },
+  {
+    "value": "driver",
+    "synonyms": [
+      "driver",
+      "chauffeur"
+    ]
+  },
+  {
+    "value": "train",
+    "synonyms": [
+      "train",
+      "amtrak",
+      "go train",
+      "commuter train"
+    ]
+  },
+  {
+    "value": "subway",
+    "synonyms": [
+      "subway"
+    ]
+  },
+  {
+    "value": "plane",
+    "synonyms": [
+      "plane",
+      "airplane",
+      "flight"
+    ]
+  }
+]

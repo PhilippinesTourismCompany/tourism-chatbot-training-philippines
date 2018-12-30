@@ -1,0 +1,180 @@
+[
+  {
+    "value": "bookstore",
+    "synonyms": [
+      "bookstore",
+      "book store",
+      "bookstores",
+      "book stores",
+      "comic books"
+    ]
+  },
+  {
+    "value": "pet shop",
+    "synonyms": [
+      "pet shop",
+      "pet shops"
+    ]
+  },
+  {
+    "value": "cosmetics store",
+    "synonyms": [
+      "cosmetics store",
+      "cosmetics shop",
+      "cosmetics stores",
+      "cosmetics shops",
+      "cosmetics beauty supply"
+    ]
+  },
+  {
+    "value": "discount store",
+    "synonyms": [
+      "discount store",
+      "discount stores"
+    ]
+  },
+  {
+    "value": "store",
+    "synonyms": [
+      "store",
+      "stores"
+    ]
+  },
+  {
+    "value": "gift shop",
+    "synonyms": [
+      "gift shop",
+      "gift shops"
+    ]
+  },
+  {
+    "value": "furniture store",
+    "synonyms": [
+      "furniture store",
+      "furniture stores"
+    ]
+  },
+  {
+    "value": "supermarket",
+    "synonyms": [
+      "supermarket",
+      "supermarkets"
+    ]
+  },
+  {
+    "value": "department store",
+    "synonyms": [
+      "department store",
+      "department stores"
+    ]
+  },
+  {
+    "value": "convenience store",
+    "synonyms": [
+      "convenience store",
+      "convenience stores"
+    ]
+  },
+  {
+    "value": "shopping center",
+    "synonyms": [
+      "shopping center",
+      "shopping centers",
+      "shopping store",
+      "shopping stores"
+    ]
+  },
+  {
+    "value": "Burger shop",
+    "synonyms": [
+      "Burger shop"
+    ]
+  },
+  {
+    "value": "electronics",
+    "synonyms": [
+      "electronics"
+    ]
+  },
+  {
+    "value": "store",
+    "synonyms": [
+      "shop",
+      "shops"
+    ]
+  },
+  {
+    "value": "mattress discounters",
+    "synonyms": [
+      "mattress discounters"
+    ]
+  },
+  {
+    "value": "candy store",
+    "synonyms": [
+      "candy store",
+      "candy stores",
+      "chocolatiers shops",
+      "chocolatiers shop",
+      "candy shop",
+      "candy shops"
+    ]
+  },
+  {
+    "value": "toy store",
+    "synonyms": [
+      "toy store",
+      "toy stores"
+    ]
+  },
+  {
+    "value": "Tattoo Shops",
+    "synonyms": [
+      "Tattoo Shops"
+    ]
+  },
+  {
+    "value": "mall",
+    "synonyms": [
+      "mall",
+      "malls"
+    ]
+  },
+  {
+    "value": "tobacco shop",
+    "synonyms": [
+      "tobacco shop",
+      "tobacco shops"
+    ]
+  },
+  {
+    "value": "grocery store",
+    "synonyms": [
+      "grocery store",
+      "grocery shop",
+      "grocery",
+      "grocery stores",
+      "grocery shops"
+    ]
+  },
+  {
+    "value": "shopping malls",
+    "synonyms": [
+      "shopping malls"
+    ]
+  },
+  {
+    "value": "market",
+    "synonyms": [
+      "market",
+      "markets"
+    ]
+  },
+  {
+    "value": "factory",
+    "synonyms": [
+      "factory",
+      "warehouse"
+    ]
+  }
+]

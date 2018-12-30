@@ -1,0 +1,81 @@
+[
+  {
+    "value": "playground",
+    "synonyms": [
+      "playground"
+    ]
+  },
+  {
+    "value": "attraction park",
+    "synonyms": [
+      "attraction park"
+    ]
+  },
+  {
+    "value": "bike trail",
+    "synonyms": [
+      "bike trail",
+      "biking"
+    ]
+  },
+  {
+    "value": "trampoline",
+    "synonyms": [
+      "trampoline",
+      "trampoline park"
+    ]
+  },
+  {
+    "value": "zoos",
+    "synonyms": [
+      "zoos",
+      "zoo"
+    ]
+  },
+  {
+    "value": "dominos",
+    "synonyms": [
+      "dominos",
+      "domino"
+    ]
+  },
+  {
+    "value": "park",
+    "synonyms": [
+      "park",
+      "national park",
+      "parks",
+      "national parks"
+    ]
+  },
+  {
+    "value": "water park",
+    "synonyms": [
+      "water park"
+    ]
+  },
+  {
+    "value": "camping",
+    "synonyms": [
+      "camping",
+      "campsite",
+      "campground",
+      "camping site",
+      "camping pitch"
+    ]
+  },
+  {
+    "value": "skate park",
+    "synonyms": [
+      "skate park",
+      "skate parks"
+    ]
+  },
+  {
+    "value": "dog park",
+    "synonyms": [
+      "dog park",
+      "dog parks"
+    ]
+  }
+]

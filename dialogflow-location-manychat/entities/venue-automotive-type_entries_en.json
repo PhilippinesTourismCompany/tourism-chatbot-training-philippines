@@ -1,0 +1,175 @@
+[
+  {
+    "value": "motorcycle dealer",
+    "synonyms": [
+      "motorcycle dealer",
+      "motorcycle dealers",
+      "motorbike dealer",
+      "motorbike dealers"
+    ]
+  },
+  {
+    "value": "motorcycle repair",
+    "synonyms": [
+      "motorcycle repair",
+      "motorbike repair"
+    ]
+  },
+  {
+    "value": "oil station",
+    "synonyms": [
+      "oil station",
+      "oil change station",
+      "oil stations",
+      "oil change stations"
+    ]
+  },
+  {
+    "value": "tire shop",
+    "synonyms": [
+      "tire shop",
+      "tire",
+      "car tires",
+      "auto tires",
+      "tires"
+    ]
+  },
+  {
+    "value": "diesel station",
+    "synonyms": [
+      "diesel station",
+      "diesel stations"
+    ]
+  },
+  {
+    "value": "car dealer",
+    "synonyms": [
+      "car dealer",
+      "car dealers",
+      "car showroom",
+      "car company showroom",
+      "sell cars"
+    ]
+  },
+  {
+    "value": "petrol station",
+    "synonyms": [
+      "petrol station",
+      "petrol stations",
+      "petrol pump",
+      "petrol pumps",
+      "petrol",
+      "out of petrol",
+      "get petrol"
+    ]
+  },
+  {
+    "value": "car dealership",
+    "synonyms": [
+      "car dealership"
+    ]
+  },
+  {
+    "value": "car rental",
+    "synonyms": [
+      "car rental",
+      "rent a car",
+      "rent car"
+    ]
+  },
+  {
+    "value": "truck rental",
+    "synonyms": [
+      "truck rental",
+      "rent a truck",
+      "rent truck"
+    ]
+  },
+  {
+    "value": "gas station",
+    "synonyms": [
+      "gas station",
+      "gas stations",
+      "gas",
+      "out of gas",
+      "get gas",
+      "gasoline",
+      "gasoline station",
+      "gasoline stations"
+    ]
+  },
+  {
+    "value": "gas and service stations",
+    "synonyms": [
+      "gas and service stations"
+    ]
+  },
+  {
+    "value": "cars for sale",
+    "synonyms": [
+      "cars for sale"
+    ]
+  },
+  {
+    "value": "service station",
+    "synonyms": [
+      "service station",
+      "car service station",
+      "service stations",
+      "car service stations"
+    ]
+  },
+  {
+    "value": "car company",
+    "synonyms": [
+      "car company"
+    ]
+  },
+  {
+    "value": "car wash",
+    "synonyms": [
+      "car wash",
+      "carwash",
+      "car washing"
+    ]
+  },
+  {
+    "value": "car rentals",
+    "synonyms": [
+      "car rentals"
+    ]
+  },
+  {
+    "value": "car service center",
+    "synonyms": [
+      "car service center",
+      "car serice centers",
+      "car service sentre",
+      "car service centres",
+      "car mechanic",
+      "car mechanics"
+    ]
+  },
+  {
+    "value": "auto repair",
+    "synonyms": [
+      "auto repair",
+      "car repair",
+      "auto parts",
+      "maintenance and auto repair",
+      "maintenance and car repair",
+      "flat tire",
+      "flat tires",
+      "repair my car"
+    ]
+  },
+  {
+    "value": "parking",
+    "synonyms": [
+      "parking",
+      "car parking",
+      "park my car",
+      "place to park"
+    ]
+  }
+]

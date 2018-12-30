@@ -1,0 +1,61 @@
+{
+  "id": "d2c00a9b-e428-43ac-8e8e-118050d3fa7c",
+  "name": "location.search (v1.0)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1ab96f1b-e3a3-4c7f-a3a5-1430cf8edb00",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location-place",
+          "value": "$location-place",
+          "isList": false
+        },
+        {
+          "id": "dc4d90eb-b9a4-4586-ac80-6be0b2926a96",
+          "required": false,
+          "dataType": "@map-sort",
+          "name": "location-sort",
+          "value": "$location-sort",
+          "isList": false
+        },
+        {
+          "id": "2673da27-adec-411f-9ac3-e62e5708ba86",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "location-search",
+          "value": "$location-search",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK, $location-search"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "flow": "content20181226222832_972602"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545945878,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "value": "massage salon",
+    "synonyms": [
+      "massage salon",
+      "massage salons",
+      "massage therapy",
+      "massage"
+    ]
+  },
+  {
+    "value": "hair salon",
+    "synonyms": [
+      "hair salon",
+      "hair styled",
+      "hair style",
+      "hair stylist",
+      "haircut",
+      "new haircut",
+      "hairdresser",
+      "haircuts",
+      "I need to get my hair cut"
+    ]
+  },
+  {
+    "value": "beauty salon",
+    "synonyms": [
+      "beauty salon",
+      "manicure",
+      "pedicure",
+      "nails studio",
+      "nail stations",
+      "nail services",
+      "eyebrow wax",
+      "to get waxed",
+      "detox wrap"
+    ]
+  },
+  {
+    "value": "spa",
+    "synonyms": [
+      "spa",
+      "spa salon",
+      "spas"
+    ]
+  },
+  {
+    "value": "nail salon",
+    "synonyms": [
+      "nail salon",
+      "nail salons"
+    ]
+  },
+  {
+    "value": "barber",
+    "synonyms": [
+      "barber",
+      "barbers"
+    ]
+  }
+]

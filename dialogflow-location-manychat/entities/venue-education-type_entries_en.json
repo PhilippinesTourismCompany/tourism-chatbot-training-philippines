@@ -1,0 +1,102 @@
+[
+  {
+    "value": "high school",
+    "synonyms": [
+      "high school",
+      "high schools"
+    ]
+  },
+  {
+    "value": "religious school",
+    "synonyms": [
+      "religious school",
+      "religious schools"
+    ]
+  },
+  {
+    "value": "secondary school",
+    "synonyms": [
+      "secondary school",
+      "secondary schools"
+    ]
+  },
+  {
+    "value": "educational service",
+    "synonyms": [
+      "educational service",
+      "educational services"
+    ]
+  },
+  {
+    "value": "private school",
+    "synonyms": [
+      "private school",
+      "private schools"
+    ]
+  },
+  {
+    "value": "school",
+    "synonyms": [
+      "school",
+      "schools"
+    ]
+  },
+  {
+    "value": "spanish courses",
+    "synonyms": [
+      "spanish courses",
+      "spanish course"
+    ]
+  },
+  {
+    "value": "university",
+    "synonyms": [
+      "university",
+      "universities"
+    ]
+  },
+  {
+    "value": "language school",
+    "synonyms": [
+      "language school",
+      "language schools"
+    ]
+  },
+  {
+    "value": "technical school",
+    "synonyms": [
+      "technical school",
+      "technical schools"
+    ]
+  },
+  {
+    "value": "driving school",
+    "synonyms": [
+      "driving school",
+      "driving schools"
+    ]
+  },
+  {
+    "value": "middle school",
+    "synonyms": [
+      "middle school",
+      "middle schools"
+    ]
+  },
+  {
+    "value": "elementary school",
+    "synonyms": [
+      "elementary school",
+      "primary school",
+      "elementary schools",
+      "primary schools"
+    ]
+  },
+  {
+    "value": "college",
+    "synonyms": [
+      "college",
+      "colleges"
+    ]
+  }
+]

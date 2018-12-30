@@ -1,0 +1,2949 @@
+[
+  {
+    "id": "d1d37c1f-57d7-4713-be0b-65ffbee1c61f",
+    "data": [
+      {
+        "text": "what is the location of your ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "40406baf-fbb9-4406-9a71-1061725bd151",
+    "data": [
+      {
+        "text": "what is your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "c2d191fd-2b39-4f8a-89fe-b59c238ce39b",
+    "data": [
+      {
+        "text": "where are you based",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922917
+  },
+  {
+    "id": "0fcf519a-d1d0-4bbe-a93f-d2caf82d3df9",
+    "data": [
+      {
+        "text": "what\u0027s your address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "1d740eff-8e19-4b5d-9e86-1296c207c0dc",
+    "data": [
+      {
+        "text": "where is your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "03d5b1ff-d12b-4b1a-84b7-2d23570f61b5",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537422506
+  },
+  {
+    "id": "ffbdcbd6-a7f4-491c-910d-f1ebf4596000",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537422506
+  },
+  {
+    "id": "43bca16f-495f-4928-b8c9-c78ff40a1c94",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537422506
+  },
+  {
+    "id": "8f8e33c9-f68a-4205-b0d0-798a1517eed2",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537422506
+  },
+  {
+    "id": "68c94fb0-7983-4846-ba6f-34110134ae23",
+    "data": [
+      {
+        "text": "where\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537422506
+  },
+  {
+    "id": "1f1c387f-c193-4604-9bf4-876e8210087e",
+    "data": [
+      {
+        "text": "what\u0027s your location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542990188
+  },
+  {
+    "id": "051dea04-03eb-478b-9313-5b84922e2f9a",
+    "data": [
+      {
+        "text": "are you based ",
+        "userDefined": false
+      },
+      {
+        "text": "near me",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "770f0ad0-c684-499a-844f-c30c729a19ed",
+    "data": [
+      {
+        "text": "where is your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " based?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537408032
+  },
+  {
+    "id": "44fc72ca-6339-4914-8782-8de3698a4e10",
+    "data": [
+      {
+        "text": "In what city are you located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "454ae7c5-61d2-4d6f-9faf-2e7e1d94f6dc",
+    "data": [
+      {
+        "text": "where do you ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537408032
+  },
+  {
+    "id": "4c0bc6f3-0188-4abc-8a26-449173a9dd9d",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537425920
+  },
+  {
+    "id": "197f5975-62ae-44cc-b8d1-c175851ff787",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " major intersection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "f42bbabd-94ff-4131-af5d-f6bea295b61a",
+    "data": [
+      {
+        "text": "what are your coordinates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "c4988c77-a42a-48c8-8171-e707d8e35358",
+    "data": [
+      {
+        "text": "are you based in ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "88f80b7d-b6b0-42dc-8957-10b11bfdce26",
+    "data": [
+      {
+        "text": "are you in ",
+        "userDefined": false
+      },
+      {
+        "text": "Ohio",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543000652
+  },
+  {
+    "id": "a4f7eeab-2d15-4b2e-93c0-6ffcda2e53d2",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537408032
+  },
+  {
+    "id": "9a727e1f-da3e-4fd5-b2f3-732c6bce4229",
+    "data": [
+      {
+        "text": "are you ",
+        "userDefined": false
+      },
+      {
+        "text": "near me",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "f4665411-ec13-4f79-a285-c99e915b6e88",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I find you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922917
+  },
+  {
+    "id": "4150125c-b577-4254-a025-8f6bbccc5b1c",
+    "data": [
+      {
+        "text": "what is your address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "071b1b78-cbb4-4c68-99b7-2d9af111334e",
+    "data": [
+      {
+        "text": "where are you located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922917
+  },
+  {
+    "id": "83b35ba3-b5d8-45fc-a1a0-bfed37320b67",
+    "data": [
+      {
+        "text": "how can I get to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922917
+  },
+  {
+    "id": "65d4c13d-929a-4768-a0e3-f6a281fdad15",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get there ",
+        "userDefined": false
+      },
+      {
+        "text": "within 1 hour",
+        "alias": "location-time",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "8873fdee-80db-40d8-907c-ad80fb5fb8e8",
+    "data": [
+      {
+        "text": "will it take more than ",
+        "userDefined": false
+      },
+      {
+        "text": "5 minutes",
+        "alias": "location-time",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      },
+      {
+        "text": " to get there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "3e5ba2fe-8633-479f-89fb-0ccecfa27b76",
+    "data": [
+      {
+        "text": "how far do I have to drive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "e97057cc-5394-4bc6-aee0-b4df49a10ce2",
+    "data": [
+      {
+        "text": "how far is it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "482724aa-cc2c-4c3a-b410-704ba10ed18f",
+    "data": [
+      {
+        "text": "is it more than ",
+        "userDefined": false
+      },
+      {
+        "text": "100 miles",
+        "alias": "location-length",
+        "meta": "@sys.unit-length",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "6fa3ccfe-31b8-4d2a-82cc-33ecc98f0875",
+    "data": [
+      {
+        "text": "will I drive more than ",
+        "userDefined": false
+      },
+      {
+        "text": "300 miles",
+        "alias": "location-length",
+        "meta": "@sys.unit-length",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "9dc8cb5b-144f-4847-86ed-426e6417c840",
+    "data": [
+      {
+        "text": "do I have to drive more than ",
+        "userDefined": false
+      },
+      {
+        "text": "200 miles",
+        "alias": "location-length",
+        "meta": "@sys.unit-length",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "18700606-7818-4663-85e5-f651c06c8919",
+    "data": [
+      {
+        "text": "tell me how many minutes your ",
+        "userDefined": false
+      },
+      {
+        "text": "spa",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "5d87cdd7-0900-4abd-9ae6-4f49e51a9f88",
+    "data": [
+      {
+        "text": "what\u0027s the distance to your ",
+        "userDefined": false
+      },
+      {
+        "text": "spa",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "01867b43-9886-49b9-9dd0-0982f0a9ac98",
+    "data": [
+      {
+        "text": "how many kilometres to your ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "459272a1-477f-4d3f-9c6d-f278c33d7407",
+    "data": [
+      {
+        "text": "number of ",
+        "userDefined": false
+      },
+      {
+        "text": "miles",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to your ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543920091
+  },
+  {
+    "id": "ae801316-8950-4853-828a-ee286e2b12f6",
+    "data": [
+      {
+        "text": "how far is your ",
+        "userDefined": false
+      },
+      {
+        "text": "salon",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543919476
+  },
+  {
+    "id": "e8092de1-e2c3-48af-8afe-8e512be12b6a",
+    "data": [
+      {
+        "text": "how long will it take me to get to your ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543919476
+  },
+  {
+    "id": "651658f4-afc8-427b-bf36-13956158b073",
+    "data": [
+      {
+        "text": "how long does it take to get there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543919476
+  },
+  {
+    "id": "553e39ae-bb3c-4b98-b51c-a0d5ee15eac8",
+    "data": [
+      {
+        "text": "what is the address of your ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "c6bf4c1a-cf59-4b84-984f-ae94cb84bcc9",
+    "data": [
+      {
+        "text": "where can I get your address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541546110
+  },
+  {
+    "id": "abfb66b1-5f7c-42b8-a808-d061b4046b11",
+    "data": [
+      {
+        "text": "your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "33562659-3c2b-4f0b-8192-e79b72e6d1ff",
+    "data": [
+      {
+        "text": "where is your ",
+        "userDefined": false
+      },
+      {
+        "text": "beauty salon",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1542345312
+  },
+  {
+    "id": "e3ad8cf3-bc1d-44be-975a-dfc5578e9c76",
+    "data": [
+      {
+        "text": "tell me your address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541546110
+  },
+  {
+    "id": "7c86f203-7dfc-4c2f-a877-c5164e5ddad4",
+    "data": [
+      {
+        "text": "address please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541546110
+  },
+  {
+    "id": "4f964903-c3f4-48c5-b020-751116116c9a",
+    "data": [
+      {
+        "text": "what is your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "b8cdd9c0-1f63-4f4e-8ce8-296ae8b30a82",
+    "data": [
+      {
+        "text": "can you give me the address to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542879404
+  },
+  {
+    "id": "76253914-fbcc-4a4f-bdfd-19f334df3388",
+    "data": [
+      {
+        "text": "how can I find your ",
+        "userDefined": false
+      },
+      {
+        "text": "company",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1542345312
+  },
+  {
+    "id": "5e37b48c-0676-4470-8c56-dc489bda1140",
+    "data": [
+      {
+        "text": "I want to know the location of your ",
+        "userDefined": false
+      },
+      {
+        "text": "company",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "fbb9b76e-e6cf-4d09-9b81-565fc6a5cfe4",
+    "data": [
+      {
+        "text": "address of your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1542345312
+  },
+  {
+    "id": "233acd29-425e-45eb-9ca4-59daf45a27db",
+    "data": [
+      {
+        "text": "where is your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "8c8f1449-742a-4afd-840d-3754785b1feb",
+    "data": [
+      {
+        "text": "How do I get to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1542345312
+  },
+  {
+    "id": "b7ec06fb-75ba-4c68-b8d9-d6bdd94351a2",
+    "data": [
+      {
+        "text": "I need the address to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "ef61fabc-2788-47b3-9ec2-68491fe5a81d",
+    "data": [
+      {
+        "text": "what\u0027s the address to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1542345312
+  },
+  {
+    "id": "4dbca24b-26d0-46a2-a325-42b1e19cb596",
+    "data": [
+      {
+        "text": "How can I get to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1542345312
+  },
+  {
+    "id": "e0b7bc95-98fc-454e-a749-6f19f43170d4",
+    "data": [
+      {
+        "text": "Where are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " based?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1537415564
+  },
+  {
+    "id": "94e38386-57fc-4adb-b3ee-83bbb2b98d65",
+    "data": [
+      {
+        "text": "Where are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537408032
+  },
+  {
+    "id": "cd340cf4-f889-4fe3-9802-d078447e20b2",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537408032
+  },
+  {
+    "id": "7562a273-3c47-4d30-a256-35c5ea861dcc",
+    "data": [
+      {
+        "text": "where can I find ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537408032
+  },
+  {
+    "id": "7521fa71-0c91-49a1-b134-55f83e3fa300",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coordinates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537425920
+  },
+  {
+    "id": "658b2f87-4055-42b4-a860-0745da2bf4ee",
+    "data": [
+      {
+        "text": "what is the nearest major intersection?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537425920
+  },
+  {
+    "id": "8219f84d-ea4f-40bd-82a9-65f2daf077cd",
+    "data": [
+      {
+        "text": "where do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537415564
+  },
+  {
+    "id": "fbf67c00-1cc2-4b18-88fc-c875ce79164a",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nearest location?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537425920
+  },
+  {
+    "id": "c572b78d-9013-4e9f-b1fc-cf65e77b90b4",
+    "data": [
+      {
+        "text": "In what city are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537408032
+  },
+  {
+    "id": "bc374a35-d4a7-4377-8c77-3d2a9ce28826",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537408032
+  },
+  {
+    "id": "5a391f0d-dc25-4e25-b34c-8dd7a55f4689",
+    "data": [
+      {
+        "text": "I want to know the location of your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "f128a008-ecdc-4e8b-a3ca-1170d1ffdc97",
+    "data": [
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "d3d05451-3969-4603-ba0a-c744a0fc1898",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get your address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "ddbd5c6c-f30e-411b-a375-126d241633b7",
+    "data": [
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " address please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "74d3f14f-74a0-4281-85d6-987048c9bdc2",
+    "data": [
+      {
+        "text": "what location is ",
+        "userDefined": false
+      },
+      {
+        "text": "closest to me",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "9553ee29-dd6f-40db-8771-707c467c31a7",
+    "data": [
+      {
+        "text": "which location should I go to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "5501dd3e-8e9e-4406-8f2c-7956f6a17144",
+    "data": [
+      {
+        "text": "closest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "33af9261-3722-4ec5-b3f8-86fb4e5a72b9",
+    "data": [
+      {
+        "text": "I need the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "214a02d7-1557-406a-aaec-db508d87d591",
+    "data": [
+      {
+        "text": "which location is ",
+        "userDefined": false
+      },
+      {
+        "text": "near me",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "299149d1-f671-4404-8b49-7bb5c8393ffb",
+    "data": [
+      {
+        "text": "tell me your ",
+        "userDefined": false
+      },
+      {
+        "text": "closest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "75aa3acc-b76d-49da-b56e-876d67576c5f",
+    "data": [
+      {
+        "text": "give me directions to your ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "e7220c3d-ac61-4c25-8171-fbcdf46087c5",
+    "data": [
+      {
+        "text": "how close is your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "6bc439f4-2129-4546-99af-5913ad425634",
+    "data": [
+      {
+        "text": "how far away",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "621c33cf-0a18-44ce-8519-f83a8c882fd3",
+    "data": [
+      {
+        "text": "I need directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "17452f5d-35d9-4c14-b7ed-9eeeafcb3d04",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "best way",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": false
+      },
+      {
+        "text": " to get there from ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922917
+  },
+  {
+    "id": "592babe6-be9e-4a32-916a-c71ff81f8ee9",
+    "data": [
+      {
+        "text": "can you show me the directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "014cff62-46d3-45ca-b6ff-0057f4e25adb",
+    "data": [
+      {
+        "text": "let me see directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "9b875ae6-103f-4b63-963c-25aba545fa9b",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "best way",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": false
+      },
+      {
+        "text": " to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "4402ee03-bb75-4935-bd69-c262076c6ccd",
+    "data": [
+      {
+        "text": "give me route to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "eef9fc58-6c4a-4e8c-93f8-fec949e64adf",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "best way",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": false
+      },
+      {
+        "text": " to get to the ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "4d71dc9d-0343-44d5-88b8-3fa73551aef0",
+    "data": [
+      {
+        "text": "give me a route to the ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "7a728318-090c-46a9-ac0b-a6b0bc36da6c",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "quickest route",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "5fcf7656-25eb-42cb-8300-4bc5a1a79f1a",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fastest way",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "d4067269-df19-449e-8c87-68a0375d44bb",
+    "data": [
+      {
+        "text": "route to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " from my current location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "672926f8-ab5c-4bee-bd6c-1f2901fb3211",
+    "data": [
+      {
+        "text": "how do I get to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "03744389-422a-4c4b-8dbe-8edeb39d928e",
+    "data": [
+      {
+        "text": "directions from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "63788c50-4d1e-453b-99f7-c7ed1d0149c0",
+    "data": [
+      {
+        "text": "directions to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "b7ea13ee-2d6a-4952-932d-48da88e9517e",
+    "data": [
+      {
+        "text": "directions from ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " to my location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "7c602800-ee53-4460-a0ed-6c29d9ab7620",
+    "data": [
+      {
+        "text": "directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "31ee91a9-90e6-48e2-8134-e37a3c97b63b",
+    "data": [
+      {
+        "text": "how to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "692cea4b-de60-4504-a588-6504957cd3df",
+    "data": [
+      {
+        "text": "find directions to the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "b7148294-ec74-4cc1-b884-0d5c94c3fcd9",
+    "data": [
+      {
+        "text": "show me directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "f03b1cb6-4f74-4ab7-b28d-090136ed8ea1",
+    "data": [
+      {
+        "text": "display directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "ea0256e0-f552-4446-83eb-32588ff45fea",
+    "data": [
+      {
+        "text": "how do I get to ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "0493564e-0696-443a-a1cb-ad3bd52dac7c",
+    "data": [
+      {
+        "text": "how do I get to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "San Diego",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "5dc86ebd-e2fc-43fe-bd8e-95e23f0545ba",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "fastest way",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " to get to your ",
+        "userDefined": false
+      },
+      {
+        "text": "spa",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "93350de1-e3c4-4721-8b7e-f1ae9875fb43",
+    "data": [
+      {
+        "text": "driving directions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "97b93168-5eb6-48ac-884d-2f5a9c65f0bb",
+    "data": [
+      {
+        "text": "show me the way to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "d907497e-79a1-401e-8200-c67e4b96f032",
+    "data": [
+      {
+        "text": "can you tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "best route",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": false
+      },
+      {
+        "text": " to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "7afeb189-9888-4a8f-a559-36b7e801e1dd",
+    "data": [
+      {
+        "text": "directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "spa",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "d4b26020-6350-46a3-a49a-05f8f5963304",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "491f0020-39dc-4943-ae7d-a817972c7ec9",
+    "data": [
+      {
+        "text": "how close are you to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "12b67977-9576-4188-9002-a5d32ac6742a",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "fastest way",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922917
+  },
+  {
+    "id": "ac8810f7-db0b-49e2-9f76-052b916f6f0d",
+    "data": [
+      {
+        "text": "how to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "2ede9aef-4a48-4033-a485-99757fe997a4",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "shortest route",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": false
+      },
+      {
+        "text": " to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543922917
+  },
+  {
+    "id": "94a93684-a40c-4104-af81-905a0edc9d16",
+    "data": [
+      {
+        "text": "give me directions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "317b5313-2189-4324-b927-5dc68fe7209f",
+    "data": [
+      {
+        "text": "give me directions to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "26b2c9f9-e73c-4d49-b1f5-4c744c593848",
+    "data": [
+      {
+        "text": "get directions to the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "87864139-ce1c-4973-90a5-2c9de2b89e8d",
+    "data": [
+      {
+        "text": "give me the address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541546110
+  },
+  {
+    "id": "ea7a5820-4001-4914-92d6-388a3d35a14c",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I find your address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "da4fd8a7-18b3-40c0-bcc8-7e2e9ec240c1",
+    "data": [
+      {
+        "text": "what\u0027s the address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "600b89c5-9e62-40b2-ab08-da04bd36435c",
+    "data": [
+      {
+        "text": "need the address to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "04a90a62-0abb-41ae-b5bc-152da4c3dd3f",
+    "data": [
+      {
+        "text": "I need your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "ee729017-2ca0-473c-917d-d248b136e702",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I find your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "5c85b9ee-f7ec-4c15-9ae2-261583465224",
+    "data": [
+      {
+        "text": "please give me your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542345312
+  },
+  {
+    "id": "ccce978e-bbe3-4e63-a4b9-082ede7737ff",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "residence",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537422506
+  },
+  {
+    "id": "0a4025d5-a079-4be7-967d-9f7b38d71987",
+    "data": [
+      {
+        "text": "are you based in ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "alias": "location-place",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543000652
+  },
+  {
+    "id": "cb3f2dc1-f4d8-4d63-a801-77e256eb3f01",
+    "data": [
+      {
+        "text": "where is your ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 1537408032
+  },
+  {
+    "id": "84f9aa16-0de7-4b92-b732-0e54d5de917f",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537408032
+  },
+  {
+    "id": "09f6e858-edc0-4529-b1b0-08de0044f462",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537408032
+  },
+  {
+    "id": "91b1b398-54e1-4d83-a753-17e86418062c",
+    "data": [
+      {
+        "text": "where are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " based?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537408032
+  },
+  {
+    "id": "b75b56dc-3928-4bda-a30b-7d909ef0543a",
+    "data": [
+      {
+        "text": "what is your ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": true
+      },
+      {
+        "text": " address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537408032
+  },
+  {
+    "id": "accfa65a-f9a0-42b9-9a80-22fe0b828bb5",
+    "data": [
+      {
+        "text": "how to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "97810ad6-9b35-48c0-b59f-f58177993607",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "best way",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": true
+      },
+      {
+        "text": " to get there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "05a340db-0a30-4c3f-8d15-6ba8aab44f6e",
+    "data": [
+      {
+        "text": "I need directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "5f9fc2f5-c9f9-4417-8d2a-ef52707fabc3",
+    "data": [
+      {
+        "text": "I need directions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "27ebcecf-6752-45f0-8d13-27c29f78937a",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fastest way",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "54861c7e-845a-4e52-b9cc-61560db28990",
+    "data": [
+      {
+        "text": "how do I get to the ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "5decf334-6cec-4bee-a758-d8707108bb49",
+    "data": [
+      {
+        "text": "find the ",
+        "userDefined": false
+      },
+      {
+        "text": "fastest route",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "a8e464e3-1621-404a-86fd-07306c05018a",
+    "data": [
+      {
+        "text": "can you find me the ",
+        "userDefined": false
+      },
+      {
+        "text": "best route",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "34920f9e-fc42-4f79-9b1a-925960cf21be",
+    "data": [
+      {
+        "text": "show me the way",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "df92d7d3-bc21-4ab4-bbb5-1d3c8b9a7d40",
+    "data": [
+      {
+        "text": "driving directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "5c880d2c-c992-4b89-ac05-d971a2331dc7",
+    "data": [
+      {
+        "text": "find directions to the nearest ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "bee4bee6-226a-4159-b324-68d2ccaed34b",
+    "data": [
+      {
+        "text": "get directions to the nearest ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "87af0b68-744a-4c93-9aec-ddf9e8ce6d34",
+    "data": [
+      {
+        "text": "gimme directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "399591a1-442d-4eae-b0d9-d1a01ca78a59",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "shortest route",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "XXXXX",
+        "alias": "location-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "893365fb-9f68-4a8a-8bf1-a79718330c5c",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "shortest route",
+        "alias": "location-navigation",
+        "meta": "@navigation-route-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "ad45baed-90d2-455e-906b-49718226d261",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "fastest way",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " to get to your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "alias": "location-types",
+        "meta": "@venue-types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "f3e05e0b-dab9-4cf0-8f03-380589bdfddc",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "fastest way",
+        "alias": "location-sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " to get there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543922917
+  },
+  {
+    "id": "d76ac49f-6f04-4c57-a46b-c4371359e8a2",
+    "data": [
+      {
+        "text": "what is the location of ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543000652
+  },
+  {
+    "id": "11271808-684f-4d5c-be5e-ab456660c403",
+    "data": [
+      {
+        "text": "where you ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543000652
+  }
+]
